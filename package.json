@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cascdev/api-node-basica-rev01.git"
+    "url": "git+https://github.com/cascdev/api-node-login.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/cascdev/api-node-basica-rev01/issues"
+    "url": "https://github.com/cascdev/api-node-login/issues"
   },
-  "homepage": "https://github.com/cascdev/api-node-basica-rev01#readme"
+  "homepage": "https://github.com/cascdev/api-node-login#readme"
 }
